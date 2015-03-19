@@ -38,6 +38,10 @@ Pro features:
 * Life time free update.
 * And many more.
 
+Video Documentation:
+
+https://www.youtube.com/watch?v=KEOLHLEJl64
+
 == Installation ==
 
 * Install it as a regular WordPress plugin
