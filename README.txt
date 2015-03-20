@@ -11,6 +11,8 @@ This plugin will add a responsive Pricing Table in your wordpress site.
 
 == Description ==
 
+### Advance Pricing Table by http://wpbean.com
+
 Advance pricing table is a highly customizable , most advance , very easy and light weight WordPress Pricing Table Plugin.
 Very easy to use and fully mobile device responsive. Supported with all kind of WordPress Themes.
 
