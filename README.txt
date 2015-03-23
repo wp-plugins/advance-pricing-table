@@ -35,6 +35,7 @@ Plugin Features
 Pro features:
 
 * Advance drag & drop shortcode builder in editor.
+* Visual Composer Support with custom pricing table element.
 * Priority Support.
 * Free Installation ( If needed ).
 * Life time free update.
